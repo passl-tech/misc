@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><XnView_script version="1.0" name="longest1600p_jpg70">
+    <Resize mode="1" width="1600" height="0" unit="0" ratio="true" orientation="false" enlarge="1" resample="10" gamma_correct="false"/>
+    <Output folder="E:/1600p" filename="{Filename}_1600p" case="0" startIndex="1" format="JPEG">
+        <Options overwrite="0" orgDate="true" keepMeta="true" keepICC="false" keepFolder="true" keepParentFolder="true" keepExtension="true" delOrg="false" multipage="false" allPages="false" openExplorer="false" beep="true" openBrowser="false" clearItems="false"/>
+        <JPEG quality="70" progressive="false" optimizeHuffman="false" rebuildThumb="false" orgQuality="false" DCTMethod="0" subSampling="0" smoothFactor="0"/>
+    </Output>
+</XnView_script>
